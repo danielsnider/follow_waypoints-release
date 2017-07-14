@@ -1,13 +1,14 @@
 <package>
   <name>follow_waypoints</name>
-  <version>0.2.0</version>
+  <version>0.3.0</version>
   <description>
       The follow_waypoints node will listen for waypoints given as
       poses and when instructed will follow them one by one by publishing goals
       to move_base.
   </description>
   <maintainer email="danielsnider12@gmail.com">Daniel Snider</maintainer>
-  <license>UNLICENSE</license>
+  <author email="danielsnider12@gmail.com">Daniel Snider</author>
+  <license>Unlicense</license>
   <url type="website">http://wiki.ros.org/follow_waypoints</url>
   <url type="repository">https://github.com/danielsnider/follow_waypoints</url>
 
