@@ -1,3 +1,26 @@
+## follow_waypoints (kinetic) - 0.3.0-2
+
+The packages in the `follow_waypoints` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic follow_waypoints` on `Sat, 15 Jul 2017 00:05:34 -0000`
+
+The `follow_waypoints` package was released.
+
+Version of package(s) in repository `follow_waypoints`:
+
+- upstream repository: https://github.com/danielsnider/follow_waypoints.git
+- release repository: https://github.com/danielsnider/follow_waypoints-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.3.0-1`
+- new version: `0.3.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## follow_waypoint (kinetic) - 0.3.0-1
 
 The packages in the `follow_waypoint` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic follow_waypoint` on `Sat, 15 Jul 2017 00:00:38 -0000`
